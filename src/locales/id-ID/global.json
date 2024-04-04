@@ -1,0 +1,31 @@
+{
+  "menus": {
+    "about": "About",
+    "nestMenus": "Nest Menus",
+    "menu1": "Menu1",
+    "menu1-1": "Menu1-1",
+    "menu1-2": "Menu1-2",
+    "menu2": "Menu2",
+    "iframe": "External Page",
+    "docs": "Docs",
+    "home": "Home",
+    "guide": "Guide",
+    "introduction": "Introduction",
+    "i18n": "I18n"
+  },
+  "common": {
+    "username": "User Name",
+    "password": "Kata Sandi",
+    "login": "Masuk",
+    "backHome": "Kembali ke halaman sebelumnya",
+    "back": "Kembali",
+    "warning": "Perhatian",
+    "delete": "Hapus",
+    "upload": "Unggah",
+    "404SubTitle": "Maaf, halaman yang Anda kunjungi tidak tersedia."
+  },
+  "projectSettings": {
+    "title": "Project Settings",
+    "theme": "Theme"
+  }
+}
